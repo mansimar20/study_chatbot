@@ -2,3 +2,4 @@
 venv
 __pychache__
 */**DS_Store
+ai_chat.py
